@@ -20,24 +20,11 @@ export const IconKeys = {
   html: "html",
   css: "css",
   javaScript: "javaScript",
-  react: "react",
   astro: "astro",
-  materialUi: "materialUi",
-  nextjs: "nextjs",
-  redux: "redux",
-  styled: "styled",
   tailwind: "tailwind",
-  radix: "radix",
-  reactQuery: "reactQuery",
   typeScript: "typeScript",
-  zustand: "zustand",
   git: "git",
   github: "github",
-  stripe: "stripe",
-  shadcn: "shadcn",
-  nodejs: "nodejs",
-  mongodb: "mongodb",
-  vite: "vite",
   // here add more icon keys
 };
 
@@ -62,10 +49,6 @@ export const skills = [
     title: "Tailwindcss",
     icon: IconKeys.tailwind,
   },
-  {
-    title: "React Js",
-    icon: IconKeys.react,
-  },
 
   {
     title: "Git",
@@ -77,10 +60,6 @@ export const skills = [
     icon: IconKeys.github,
   },
 
-  {
-    title: "Node Js",
-    icon: IconKeys.nodejs,
-  },
   {
     title: "TypeScript",
     icon: IconKeys.typeScript,
@@ -99,17 +78,9 @@ export const projects = [
       {
         icon: IconKeys.typeScript,
       },
-      {
-        icon: IconKeys.nextjs,
-      },
+      
       {
         icon: IconKeys.tailwind,
-      },
-      {
-        icon: IconKeys.zustand,
-      },
-      {
-        icon: IconKeys.shadcn,
       },
     ],
   },
