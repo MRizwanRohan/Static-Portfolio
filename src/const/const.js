@@ -1,18 +1,18 @@
 export const studies = [
   {
-    title: "Técnico en desarrollo de software",
-    corporation: "SENA - Montería (Córdoba) ",
-    date: "02/2019 – 12/2019",
+    title: "Daffodil Internaional University",
+    corporation: "BSc - Software Engineering (3.60)",
+    date: "09/2020 – 06/2024",
   },
   {
-    title: "Desarrollador Front-end React Js",
-    corporation: "Alura Latam - Remoto",
-    date: "04/2023 – 09/2023",
+    title: "Shahid Syed Nazrul Islam College",
+    corporation: "HSC (4.75)",
+    date: "04/2017 – 04/2019",
   },
   {
-    title: "Curso profesional de React Js",
-    corporation: "Código facilito - Remoto",
-    date: "04/2023 – 04/2023",
+    title: "Cantonment Public School and College Momenshahi",
+    corporation: "SSC (5.00)",
+    date: "01/2004 – 04/2017",
   },
 ];
 
