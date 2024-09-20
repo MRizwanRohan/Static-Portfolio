@@ -22,15 +22,7 @@ const { technologies, title, img, description, link } = Astro.props;
   <p class="description-project">
     {description}
   </p>
-  <p class="title-technologies">tecnologías usadas</p>
-  <div class="container-technologies">
-    {
-      technologies.map(({ icon }) => {
-        const IconComponent = getIconComponent(icon);
-        return <i>{IconComponent && <IconComponent />}</i>;
-      })
-    }
-  </div>
+  <p class="title-technologies"></p>
   <div class="container-link-project">
     <a href={link} target="_blank">Ver más</a>
   </div>

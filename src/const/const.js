@@ -1,17 +1,17 @@
 export const studies = [
   {
     title: "Daffodil Internaional University",
-    corporation: "BSc - Software Engineering (3.60)",
+    corporation: "BSc - Software Engineering",
     date: "09/2020 – 06/2024",
   },
   {
     title: "Shahid Syed Nazrul Islam College",
-    corporation: "HSC (4.75)",
+    corporation: "HSC",
     date: "04/2017 – 04/2019",
   },
   {
     title: "Cantonment Public School and College Momenshahi",
-    corporation: "SSC (5.00)",
+    corporation: "SSC",
     date: "01/2004 – 04/2017",
   },
 ];
@@ -64,6 +64,10 @@ export const skills = [
     title: "TypeScript",
     icon: IconKeys.typeScript,
   },
+  {
+    title: "Figma",
+    icon: IconKeys.figma,
+  },
 
 ];
 
@@ -71,9 +75,9 @@ export const skills = [
 export const projects = [
   {
     img: "../../../img/tasks-manager.webp",
-    title: "Tasks Manager",
+    title: "Music App",
     link: "https://task-manager-ecru-chi.vercel.app/dashboard",
-    description: `Administrador de tareas con drag and drop autenticación con Clerk , shadcn.  "En Desarrollo "`,
+    description: `UI Project of a Music App that reflects the modern approach.`,
     technologies: [
       {
         icon: IconKeys.typeScript,
@@ -86,9 +90,9 @@ export const projects = [
   },
   {
     img: "../../../img/ecommerce-stripe-2.webp",
-    title: "Ecommerce Stripe",
+    title: "Weather App",
     link: "https://ecommerce-stripe-763m.vercel.app/",
-    description: `Proyecto FullStack de un ecommerce con pasarela de pagos stripe integrada, destalles de el product etc.  `,
+    description: `Presents the UI for the Weather Service application`,
     technologies: [
       {
         icon: IconKeys.typeScript,
@@ -109,9 +113,9 @@ export const projects = [
   },
   {
     img: "../../../img/nexanime.webp",
-    title: "NexAnime",
+    title: "Fruit App design",
     link: "https://nexanime.vercel.app",
-    description: `plataforma de anime para ver los animes en tendencia , más valorados , estadísticas.`,
+    description: `This shows the design of a fruit app`,
     technologies: [
       {
         icon: IconKeys.typeScript,
@@ -126,11 +130,9 @@ export const projects = [
   },
   {
     img: "../../../img/store-games.webp",
-    title: "Store games",
+    title: "Coffee App UI",
     link: "https://store-games-site.netlify.app/",
-    description: `Simulando una página de juegos , consumiendo la API de rawg api
-      donde los usuarios pueden buscar videojuegos, ver sus detalles como
-      creadores , calificaciones,tiendas donde comprar.....`,
+    description: `Simple application design for coffee apps.`,
     technologies: [
       {
         icon: IconKeys.react,
@@ -151,10 +153,9 @@ export const projects = [
   },
   {
     img: "../../../img/movie.webp",
-    title: "Movie Tv",
-    link: "https://movietvsite.netlify.app/",
-    description: `simulando una página de películas , consumiendo la API de themovietv
-              donde los usuarios pueden buscar películas y ver trailer.....`,
+    title: "Fleet HR",
+    link: "https://fleethr.vercel.app/",
+    description: `A modular based HR Management system.`,
     technologies: [
       {
         icon: IconKeys.react,
@@ -170,25 +171,25 @@ export const projects = [
       },
     ],
   },
-  {
-    img: "../../../img/cyberpunk.webp",
-    title: "cyberpunk",
-    link: "https://preeminent-liger-266356.netlify.app/",
-    description: `este proyecto se trata de un clon de la pagína de cyberpunk , donde
-      el ususario puede ver los tailer de él juegos y también los
-      episodios de la serie....`,
-    technologies: [
-      {
-        icon: IconKeys.html,
-      },
-      {
-        icon: IconKeys.css,
-      },
-      {
-        icon: IconKeys.javaScript,
-      },
-    ],
-  },
+  // {
+  //   img: "../../../img/cyberpunk.webp",
+  //   title: "cyberpunk",
+  //   link: "https://preeminent-liger-266356.netlify.app/",
+  //   description: `este proyecto se trata de un clon de la pagína de cyberpunk , donde
+  //     el ususario puede ver los tailer de él juegos y también los
+  //     episodios de la serie....`,
+  //   technologies: [
+  //     {
+  //       icon: IconKeys.html,
+  //     },
+  //     {
+  //       icon: IconKeys.css,
+  //     },
+  //     {
+  //       icon: IconKeys.javaScript,
+  //     },
+  //   ],
+  // },
 
   
 
