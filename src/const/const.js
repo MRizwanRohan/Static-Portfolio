@@ -130,7 +130,7 @@ export const projects = [
   },
   {
     img: "../../../img/store-games.webp",
-    title: "Coffee App UI",
+    title: "Food App UI",
     link: "https://store-games-site.netlify.app/",
     description: `Simple application design for coffee apps.`,
     technologies: [
