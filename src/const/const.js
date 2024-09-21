@@ -76,7 +76,7 @@ export const projects = [
   {
     img: "../../../img/tasks-manager.webp",
     title: "Music App",
-    link: "https://task-manager-ecru-chi.vercel.app/dashboard",
+    link: "https://www.figma.com/design/ja4C3NLjcdYiLiubHUp5VX/Practice?node-id=104-91&t=5G0lEPFmbFzmUM75-1",
     description: `UI Project of a Music App that reflects the modern approach.`,
     technologies: [
       {
@@ -91,7 +91,7 @@ export const projects = [
   {
     img: "../../../img/ecommerce-stripe-2.webp",
     title: "Weather App",
-    link: "https://ecommerce-stripe-763m.vercel.app/",
+    link: "https://www.figma.com/design/FL5KA0SLIDY632rn91nbrd/NAGAD?node-id=60-66&t=Sn4eNg3069vm17Vf-1",
     description: `Presents the UI for the Weather Service application`,
     technologies: [
       {
@@ -114,7 +114,7 @@ export const projects = [
   {
     img: "../../../img/nexanime.webp",
     title: "Fruit App design",
-    link: "https://nexanime.vercel.app",
+    link: "https://www.figma.com/design/ja4C3NLjcdYiLiubHUp5VX/Practice?node-id=31-2&t=5G0lEPFmbFzmUM75-1",
     description: `This shows the design of a fruit app`,
     technologies: [
       {
@@ -131,7 +131,7 @@ export const projects = [
   {
     img: "../../../img/store-games.webp",
     title: "Food App UI",
-    link: "https://store-games-site.netlify.app/",
+    link: "https://www.figma.com/design/FL5KA0SLIDY632rn91nbrd/NAGAD?node-id=79-118&t=Sn4eNg3069vm17Vf-1",
     description: `Simple application design for coffee apps.`,
     technologies: [
       {
